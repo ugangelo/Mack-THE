@@ -1,4 +1,4 @@
-/* Cronograma de Turbomáquinas e Hidráulica Experimental — 2026/2. */
+/* Cronograma de Turbomáquinas Hidráulicas e Eólicas — 2026/2. */
 window.conteudosAulas = {
   "2026-08-12": {
     tipo: "laboratorio", laboratorio: true,
